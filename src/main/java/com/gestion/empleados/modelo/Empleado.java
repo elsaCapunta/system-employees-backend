@@ -1,4 +1,4 @@
-package com.geston.empleados.modelo;
+package com.gestion.empleados.modelo;
 
 import jakarta.persistence.*;
 
