@@ -59,5 +59,4 @@ public class EmpleadoControlador {
         respuesta.put("eliminar",Boolean.TRUE);
         return ResponseEntity.ok(respuesta);
     }
-
 }
